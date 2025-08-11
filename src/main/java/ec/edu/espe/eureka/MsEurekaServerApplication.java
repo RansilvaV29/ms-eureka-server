@@ -11,5 +11,5 @@ public class MsEurekaServerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MsEurekaServerApplication.class, args);
 	}
-
+// werk
 }
